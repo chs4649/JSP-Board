@@ -139,13 +139,13 @@ body {
 		<div class="container mb-5">
 			<div class="slider">
 				<div>
-					<img src="images/1.png">
+					<img src="https://cdn.pixabay.com/photo/2024/05/20/17/33/sky-8775846_960_720.png">
 				</div>
 				<div>
-					<img src="images/2.png">
+					<img src="https://cdn.pixabay.com/photo/2023/09/02/03/15/water-8228076_1280.jpg">
 				</div>
 				<div>
-					<img src="images/3.png">
+					<img src="https://cdn.pixabay.com/photo/2024/05/15/12/31/lake-8763490_1280.jpg">
 				</div>
 			</div>
 		</div>
