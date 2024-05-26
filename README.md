@@ -1,5 +1,5 @@
 ## プロジェクト名
-JSP Board 作成
+JSP_Board_Test
 
 
 ## プロジェクト情報
