@@ -15,7 +15,7 @@ public class UserDAO {
 		try {
 			String dbURL = "jdbc:mysql://localhost:3306/BBS"; // 데이터베이스 URL
 			String dbID = "root"; // 데이터베이스 사용자 ID
-			String dbPW = "Dlwpsdksekdgo12!@"; // 데이터베이스 사용자 비밀번호
+			String dbPW = " "; // 데이터베이스 사용자 비밀번호
 			Class.forName("com.mysql.jdbc.Driver"); // JDBC 드라이버 로드
 			conn = DriverManager.getConnection(dbURL, dbID, dbPW); // 데이터베이스 연결
 			System.out.println("연결 성공"); // 연결 성공 메시지 출력
